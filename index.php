@@ -1,2 +1,2 @@
 <?php
-hello to wehome!
+echo "hello to wehome!"
