@@ -1,2 +1,3 @@
 <?php
-echo "hello to wehome!"
+	echo "hello to wehome!"
+?>
